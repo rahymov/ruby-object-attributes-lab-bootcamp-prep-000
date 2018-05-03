@@ -5,7 +5,7 @@ class Person
   def job(name)
   
   end 
-  def job=(name)
+  def job=(new_job)
   end
   
 end
