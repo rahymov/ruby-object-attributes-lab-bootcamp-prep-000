@@ -3,7 +3,7 @@ class Person
     @name = name
   end
   def job(name)
-    @job = naem  
+    @job = name  
   end 
   def job=(new_job)
     @job = new_job
